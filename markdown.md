@@ -1,7 +1,7 @@
 # Markdown
 ----
 
-![Image](![image](https://user-images.githubusercontent.com/109790500/180421686-9555f726-7f3d-46ca-af73-aebf09b17fe4.png)
+![Image](https://user-images.githubusercontent.com/109790500/180421686-9555f726-7f3d-46ca-af73-aebf09b17fe4.png)
 )
 
 ## Description
